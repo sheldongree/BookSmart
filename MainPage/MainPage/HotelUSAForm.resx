@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>A sanctuary for mind and body, Harmony Haven Retreat is dedicated to holistic well-being. The retreat's architecture seamlessly blends with nature, offering yoga studios with panoramic views of surrounding gardens and meditation spaces surrounded by tranquil ponds. Wellness workshops and classes cater to guests seeking balance and rejuvenation, fostering a sense of harmony and inner peace</value>
+  </data>
+  <data name="textBox3.Text" xml:space="preserve">
+    <value> Surrounded by snow-capped peaks, the Alpine Crest Resort is a haven for outdoor enthusiasts. The resort's cozy chalets feature warm fireplaces and breathtaking mountain views, providing the perfect retreat after a day of skiing or hiking. Après-ski activities abound, with a lodge offering hot cocoa by the fire and a spa providing soothing treatments to rejuvenate weary muscles.</value>
+  </data>
+  <data name="hotelDescription9.Text" xml:space="preserve">
+    <value>Embraced by verdant valleys, Vista Verde Retreat offers an eco-conscious sanctuary. The retreat's sustainable cabins are nestled amid organic gardens and orchards, providing a peaceful escape. Farm-to-table dining experiences, nature conservation tours, and educational workshops foster a deep connection to the land and promote sustainable living practices.</value>
+  </data>
+  <data name="hotelDescription8.Text" xml:space="preserve">
+    <value>Set against a backdrop of crimson-hued cliffs, Crimson Peak Chalet offers a secluded mountain escape. The chalet-style suites feature rustic elegance and expansive windows framing breathtaking canyon views. Hiking trails meander through the rugged landscape, while evenings are spent by the firepit, enjoying the warmth and camaraderie amidst the majestic peaks.</value>
+  </data>
+  <data name="hotelDescription7.Text" xml:space="preserve">
+    <value>Enveloped by an ancient forest, Mystic Grove Lodge is a haven for nature lovers. The lodge's log cabins blend seamlessly with the surroundings, offering cozy interiors and verandas that open to lush woodland views. Guided forest walks, wildlife observation points, and storytelling around campfires create an enchanting experience, immersing guests in the mystical beauty of the woods</value>
+  </data>
+  <data name="hotelDescription6.Text" xml:space="preserve">
+    <value>Immersed in the heart of untamed wilderness, Wilderness Oasis Lodge provides an authentic escape into nature. Log cabins nestled among towering trees offer a rustic yet comfortable retreat. Guests can embark on guided nature hikes, wildlife spotting excursions, and adventurous activities, providing an intimate connection with the surrounding wilderness, making for an unforgettable outdoor experience.</value>
+  </data>
+  <data name="hotelDescription5.Text" xml:space="preserve">
+    <value>Nestled along a peaceful shoreline, the Starlight Shores Lodge offers a serene escape from the hustle and bustle of city life. The lodge's rustic cabins exude cozy charm, each equipped with comfortable furnishings and private balconies overlooking the tranquil waters. At night, guests gather around beachside bonfires, gazing up at the starlit sky while the sound of gentle waves lulls them into a peaceful slumber.</value>
+  </data>
+  <data name="hotelDescription4.Text" xml:space="preserve">
+    <value>A hidden oasis, the Enchanted Garden Retreat enchants guests with its sprawling gardens, alive with vibrant flowers and meandering pathways. The retreat features charming cottages and suites tucked away amidst the greenery. Each accommodation is uniquely designed, some with private garden views and whimsical decor, creating an atmosphere that feels straight out of a fairy tale. Tranquility pervades the air, inviting guests to unwind and discover the secret nooks scattered throughout the property.</value>
+  </data>
+  <data name="hotelDescription10.Text" xml:space="preserve">
+    <value>Situated in a remote desert region, Luminous Skies Hotel offers an immersive experience under expansive, star-filled skies. The hotel's domed suites feature telescope-equipped terraces for stargazing, complemented by astronomy lectures and celestial-themed dinners. Daytime explorations into nearby canyons and dunes offer a stark contrast to the mesmerizing nighttime skies.</value>
+  </data>
+  <data name="textBox4.Text" xml:space="preserve">
+    <value>Located just steps from the sandy shores, the Coastal Breeze Hotel embodies the essence of seaside relaxation. Its airy and light-filled rooms feature breezy decor and balconies overlooking the azure waters. The hotel's laid-back ambiance extends to the beachfront lounge, where guests can unwind with refreshing drinks while soaking up the sun and listening to the gentle sound of waves.</value>
+  </data>
+</root>

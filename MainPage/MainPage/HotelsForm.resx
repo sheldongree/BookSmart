@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox3.Text" xml:space="preserve">
+    <value>Sapphire Sands Resort beckons with the allure of pristine beaches and luxurious indulgence. Immerse yourself in the tranquility of sapphire-blue waters and golden sands. Our resort offers a sanctuary where relaxation and sophistication blend seamlessly for a truly rejuvenating escape.
+
+
+</value>
+  </data>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>Welcome to Azure Escape Resort, where the tranquil beauty of azure blue skies meets the luxury of an unforgettable getaway. Nestled amidst breathtaking landscapes, our resort offers a perfect blend of relaxation and adventure. Immerse yourself in the serenity of our azure-themed haven, where each moment is a retreat into pure bliss.
+</value>
+  </data>
+  <data name="hotelDescription9.Text" xml:space="preserve">
+    <value>Opulent Oasis Hotel is a lavish escape into opulence, where the allure of luxury is unmatched. From lavish accommodations to exquisite amenities, our hotel is a true oasis for those who appreciate the finer things in life.</value>
+  </data>
+  <data name="hotelDescription8.Text" xml:space="preserve">
+    <value>Radiant Rendezvous Hotel beckons you to embark on a journey into enchantment. From the moment you step through our doors, a world of refined luxury unfolds before you. The Radiant Rendezvous is more than a hotel; it is an immersive experience meticulously crafted for those who seek a rendezvous with extravagance.</value>
+  </data>
+  <data name="hotelDescription7.Text" xml:space="preserve">
+    <value>Discover a celestial haven where luxury meets the stars. Celestial Suites invites you to experience unparalleled comfort in a setting that transcends the ordinary. Immerse yourself in opulence, surrounded by celestial wonders that elevate your stay to new heights.</value>
+  </data>
+  <data name="hotelDescription6.Text" xml:space="preserve">
+    <value>Velvet Vista Hotel welcomes you to a world of plush elegance and panoramic views. Our hotel is a sensory delight, where every corner is adorned with sophistication. Unwind in style, enjoying the velvety comforts and breathtaking vistas that make your stay an unforgettable experience.</value>
+  </data>
+  <data name="hotelDescription5.Text" xml:space="preserve">
+    <value>Pinnacle Paradise Hotel stands at the summit of luxury, offering an unparalleled experience in hospitality. From breathtaking views to impeccable service, our hotel is a pinnacle of opulence. Immerse yourself in a paradise of refined indulgence and exquisite comfort.</value>
+  </data>
+  <data name="hotelDescription4.Text" xml:space="preserve">
+    <value>Step into the Tranquil Oasis Lodge, where peace and comfort converge. Surrounded by lush landscapes, our lodge is a retreat into serenity. Immerse yourself in the tranquil ambiance, enjoying the harmonious blend of nature and hospitality.</value>
+  </data>
+  <data name="hotelDescription10.Text" xml:space="preserve">
+    <value>Regal Respite Inn invites you to experience regal comfort in a charming haven. Immerse yourself in the regal ambiance, where each detail reflects a commitment to luxury and tranquility. Your respite begins in the lap of regal indulgence.Immerse yourself in the radiant ambiance that characterizes the soul of our hotel. Luxurious amenities await at every turn, promising a seamless blend of comfort and sophistication. From the opulent spa to the rooftop terrace offering panoramic views of the city, the Radiant Rendezvous is a haven for those who appreciate the finer things in life
+</value>
+  </data>
+  <data name="textBox4.Text" xml:space="preserve">
+    <value>Majestic Mirage Lodge is a haven of enchantment, where majesty and mirage converge in perfect harmony. Surrounded by awe-inspiring landscapes, our lodge offers a majestic retreat into luxury. Experience the allure of the extraordinary as you indulge in the grandeur of Majestic Mirage Lodge.</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+</root>
